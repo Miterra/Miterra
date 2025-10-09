@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bonjour;Je+suis+Halil;Développeur+informatique" alt="Typing Présentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bonjour;Je+suis+Halil;D%C3%A9veloppeur+informatique" alt="Typing Présentation" />
 </p>
+
 
 
 
