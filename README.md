@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="./assets/intro.gif" alt="Présentation animée Halil" />
-</h1>
+# 👋 Bonjour
+
+`[····]` Je suis Halil  
+`[····]` Développeur informatique 💻
+
 
 
 <p align="center">
