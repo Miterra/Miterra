@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=600&lines=🎬+Création+de+vidéos+dynamiques;✨+Effets+visuels+et+motion+design;🎨+Édition+créative+sur+Alight+Motion+et+CapCut" alt="Typing animation montage vidéo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AC+Cr%C3%A9ation+de+vid%C3%A9os+dynamiques;%E2%9C%A8+Effets+visuels+et+motion+design;%F0%9F%8E%A8+%C3%89dition+cr%C3%A9ative+sur+Alight+Motion+et+CapCut" alt="Typing animation montage vidéo" />
 </p>
 
 ---
