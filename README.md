@@ -1,17 +1,31 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&lines=👋+Bonjour!;💻+Je+suis+Halil,+développeur+en+informatique;🎓+Étudiant+à+l'IUT+Robert+Schumann" alt="Typing animation présentation" />
-</h1>
+<h1 align="center">👋 Bonjour — Je suis <strong>Halil</strong></h1>
 
 <p align="center">
-🎓 Étudiant passionné de <strong>développement logiciel</strong><br>
+💻 Développeur en informatique • Étudiant à l'IUT Robert Schumann
 </p>
 
 ---
 
-### 🧰 Langages & Outils
+### 🧠 À propos de moi
+
+* 🎓 **Étudiant à l'IUT Robert Schumann** (filière informatique)
+* 💻 **Développeur en informatique** — passionné par le développement logiciel, les bases de données et l'architecture
+
+
+---
+
+### 🧩 Langages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,php,java,mysql,sqlite,html,css,js,git,vscode,visualstudio,godot,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,python,php,java,html,css,js,mysql,sqlite" />
+</p>
+
+---
+
+### 🧰 Outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,godot,linux" />
 </p>
 
 ---
@@ -19,7 +33,7 @@
 ### 🎥 Montage Vidéo & Création
 
 <p align="center">
-  ✂️ Je crée aussi des vidéos et animations avec <strong>Alight Motion</strong> et <strong>CapCut</strong> !  
+  ✂️ Je crée aussi des vidéos et animations avec <strong>Alight Motion</strong> et <strong>CapCut</strong>.
 </p>
 
 <p align="center">
