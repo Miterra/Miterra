@@ -6,7 +6,7 @@
 
 
 <p align="center">
-💻 Développeur en informatique • Étudiant à l'IUT Robert Schumann
+💻 Développeur • Étudiant
 </p>
 
 ---
