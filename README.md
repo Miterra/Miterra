@@ -14,6 +14,18 @@
 
 ---
 
+### 🎥 Montage Vidéo & Création
+
+<p align="center">
+  ✂️ Je crée aussi des vidéos et animations avec <strong>Alight Motion</strong> et <strong>CapCut</strong> !  
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=600&lines=🎬+Création+de+vidéos+dynamiques;✨+Effets+visuels+et+motion+design;🎨+Édition+créative+sur+Alight+Motion+et+CapCut" alt="Typing animation montage vidéo" />
+</p>
+
+---
+
 ### 📊 Statistiques GitHub
 
 <p align="center">
@@ -30,7 +42,6 @@
 </p>
 
 ---
-
 
 ### 📫 Me contacter
 
