@@ -1,9 +1,5 @@
 <p align="center">
-  Bonjour <strong>Je suis Halil</strong> et <strong>Développeur informatique</strong>.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AC+Cr%C3%A9ation+de+vid%C3%A9os+dynamiques;%E2%9C%A8+Effets+visuels+et+motion+design;%F0%9F%8E%A8+%C3%89dition+cr%C3%A9ative+sur+Alight+Motion+et+CapCut" alt="Typing Présentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bonjour;Je+suis+Halil;Développeur+informatique" alt="Typing Présentation" />
 </p>
 
 
