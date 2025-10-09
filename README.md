@@ -1,18 +1,8 @@
-<h1 align="center">👋 Salut, moi c'est <span style="color:#00bfff;">Miterra</span> !</h1>
+<h1 align="center">👋 Salut, moi c'est <span style="color:#00bfff;">Halil</span> !</h1>
 
 <p align="center">
 🎓 Étudiant passionné de <strong>développement logiciel</strong><br>
-💻 J’adore créer, apprendre et optimiser des solutions en <strong>C#</strong>, <strong>Python</strong>, <strong>SQL</strong>, <strong>PHP</strong> et <strong>Java</strong>.
 </p>
-
----
-
-### 🧠 À propos de moi
-
-* 🎯 Objectif : devenir **développeur full stack** ou **ingénieur logiciel**
-* 🌱 J’apprends actuellement : <strong>ASP.NET Core</strong> et <strong>Spring Boot</strong>
-* 💬 Parle-moi de : architecture logicielle, bases de données et projets open source
-* ⚡ Fun fact : J’ai plus de commits le soir que le matin ☕
 
 ---
 
