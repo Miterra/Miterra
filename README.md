@@ -1,4 +1,6 @@
-<h1 align="center">👋 Salut, moi c'est <span style="color:#00bfff;">Halil</span> !</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&lines=👋+Bonjour!;💻+Je+suis+Halil,+développeur+en+informatique;🎓+Étudiant+à+l'IUT+Robert+Schumann" alt="Typing animation présentation" />
+</h1>
 
 <p align="center">
 🎓 Étudiant passionné de <strong>développement logiciel</strong><br>
