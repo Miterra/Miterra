@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=700&lines=👋+Bonjour!;Je+suis+Halil;💻+Développeur+informatique" alt="Présentation animée de Halil" />
+  <img src="./assets/intro.gif" alt="Présentation animée Halil" />
 </h1>
+
 
 <p align="center">
 💻 Développeur en informatique • Étudiant à l'IUT Robert Schumann
