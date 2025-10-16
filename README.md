@@ -10,7 +10,6 @@
 
 ### 🧠 À propos de moi
 
-- 🎓 Étudiant en informatique à l’IUT Robert Schuman  
 - 💻 Passionné par le **développement logiciel**, les **bases de données** et **l’architecture applicative**  
 - 🚀 Toujours en quête d’apprentissage et de **nouveaux défis techniques**  
 - 🤝 Intéressé par la **collaboration open-source** et les **projets créatifs**
