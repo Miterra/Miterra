@@ -31,7 +31,7 @@
 
 
 #### 🧯 Application de gestion des missions des pompiers
-- 🧰 **C# / WinForms / Visual Studio**
+- 🧰 **C# / WinForms / Visual Studio** - [📌 Épinglé](https://github.com/Miterra/Saufillkirch)
 - 💡 Application de bureau permettant d’organiser les missions, les équipes et les véhicules d’intervention.  
 - 🎯 Objectif : faciliter la planification et la gestion opérationnelle des pompiers.
 
@@ -44,7 +44,7 @@
 
 ---
 
-#### 🧊 Jeu sérieux : gestion de ressources en Antarctique
+#### 🧊 Jeu sérieux : gestion de ressources en Antarctique — [📌 Épinglé](https://github.com/Miterra/Game_2D)
 - 🌍 Jeu de simulation et de stratégie sur **Godot Engine**.  
 - 🔧 Objectif : gérer efficacement les ressources et l’exploitation dans un environnement extrême.  
 - 💡 Accent sur la **gestion de ressources** et les **choix durables**.
