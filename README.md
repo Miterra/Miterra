@@ -27,6 +27,9 @@
 
 ### 🚀 Projets
 
+### Mes projets illustrent ma polyvalence et mon envie d’explorer différents domaines du développement informatique.
+### J’ai conçu des applications logicielles, des jeux 2D, et des sites web, en utilisant une variété de technologies comme C#, Java, Godot Engine, et SQL.
+
 #### 🧯 Application de gestion des missions des pompiers
 - 🧰 **C# / WinForms / Visual Studio**
 - 💡 Application de bureau permettant d’organiser les missions, les équipes et les véhicules d’intervention.  
