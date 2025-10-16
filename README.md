@@ -102,4 +102,3 @@ J’aime explorer le **motion design**, les **effets visuels** et le **storytell
 
 ---
 
-💡 *"Code. Learn. Repeat."*
